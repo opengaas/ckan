@@ -40,7 +40,7 @@ simplejson==3.3.1         # via pylons HAND-FIXED FOR NOW #2681
 six==1.10.0               # via pastescript, sqlalchemy-migrate
 solrpy==0.9.5
 sqlalchemy-migrate==0.9.1
-sqlalchemy==0.9.6
+sqlalchemy==0.8.4
 sqlparse==0.1.11
 tempita==0.5.2            # via pylons, sqlalchemy-migrate, weberror
 tzlocal==1.2
